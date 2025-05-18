@@ -1,61 +1,35 @@
-## Hi there! I'm Doulat 👋
+<h1 align="center">Hi 👋, I'm Doulat</h1>
+<h3 align="center">A passionate software developer & problem solver from India</h3>
 
-Welcome to my GitHub! I'm a passionate developer, curious learner, and enthusiastic builder who loves turning ideas into impactful digital experiences. 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doulat208&label=Profile%20views&color=0e75b6&style=flat" alt="doulat208" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doulat208" alt="doulat208" /></a> </p>
 
-### 🧠 About Me
+- 🔭 I’m currently working on **Job Application Portal**
 
-- 🔭 Currently building: **Sanjeevani** – A Virtual Herbal Garden for Smart India Hackathon (SIH) under Ministry of AYUSH  
-- 🚀 Past Project: **Sankalp** – A student mentorship and mental detox app (BFCET Hackathon 2025)  
-- 🐞 Participated in **BUG SENSE** – A competitive bug-finding event  
-- 📊 Research Report: **Consumer Buying Behaviour in Automobile Sector – Ghaziabad**  
-- 📚 Exploring: AI-powered career mentoring & community platforms  
-- 🧩 Passionate about: Hackathons, solving real-world problems, and learning new tech
+- 🌱 I’m currently learning **Spring Boot, Java Scripts, Reaact**
 
----
+- 🤝 I’m looking for help with **Advanced UI/UX & Frontend Development**
 
-### 💻 Tech Stack
+- 📝 I regularly write articles on [http://www.linkedin.com/in/doulat-biswal](http://www.linkedin.com/in/doulat-biswal)
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=spring-boot)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+- 💬 Ask me about **Java, Springboot, DSA**
 
----
+- 📫 How to reach me **doulatbiswal208@gmaail.com**
 
-### 🏆 Achievements & Highlights
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DLLeh_O8N-qczrUJiF16TxfUV9zc8U_3/view?usp=sharing](https://drive.google.com/file/d/1DLLeh_O8N-qczrUJiF16TxfUV9zc8U_3/view?usp=sharing)
 
-- 🏅 **Finalist** – BFCET Hackathon 2025
-- 🛠️ **SIH Participant** – Problem Statement 1555
-- 🧪 Hands-on with **Supervised & Unsupervised ML** (Customer Segmentation Project)
-- 📃 Created professional reports & documentation using real-world project structures
+- ⚡ Fun fact **I debug faster than I eat Maggi 😄**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/doulat-biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doulat-biswal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/doulat_biswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="doulat_biswal" height="30" width="40" /></a>
+</p>
 
-### 📈 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![Doulat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doulat208&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doulat208&layout=compact&theme=radical)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doulat208&show_icons=true&locale=en&layout=compact" alt="doulat208" /></p>
 
----
-
-### 📫 Let’s Connect!
-
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [Your Portfolio](https://your-portfolio.com)
-
----
-
-### ⚡ Fun Fact
-
-> "I break bugs, not hearts. 💔🐞"
-
----
-
-Thanks for stopping by! Keep building, keep growing! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doulat208&" alt="doulat208" /></p>
